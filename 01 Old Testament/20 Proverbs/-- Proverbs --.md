@@ -1,4 +1,4 @@
-##### *[[-- Bible --|Books]]*
+##### *[Books](--%20Bible%20--.md)*
 
 ### Chapters
 - [[Proverbs 1|1]]

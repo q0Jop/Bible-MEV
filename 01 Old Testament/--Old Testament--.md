@@ -1,5 +1,5 @@
 
-##### *[[-- Bible --|Books]]*
+##### *[Books](--%20Bible%20--.md)*
 ### [Old Testament](--Old%20Testament--.md)
 1. [[-- Genesis --|Genesis]]
 2. [[-- Exodus --|Exodus]]
