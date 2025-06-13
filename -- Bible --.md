@@ -1,4 +1,4 @@
-### [Old Testament](01%20Old%20Testament.md)
+### [Old Testament](--Old%20Testament--.md)
 - [[-- Genesis --|Genesis]]
 - [[-- Exodus --|Exodus]]
 - [[-- Leviticus --|Leviticus]]
