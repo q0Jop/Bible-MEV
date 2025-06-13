@@ -1,45 +1,75 @@
 
-### [Old Testament](--Old%20Testament--.md)
-1. [[-- Genesis --|Genesis]]
-2. [[-- Exodus --|Exodus]]
-3. [[-- Leviticus --|Leviticus]]
-4. [[-- Numbers --|Numbers]]
-5. [[-- Deuteronomy --|Deuteronomy]]
-6. [[-- Joshua --|Joshua]]
-7. [[-- Judges --|Judges]]
-8. [[-- Ruth --|Ruth]]
-9. [[-- 1 Samuel --|1 Samuel]]
-10. [[-- 2 Samuel --|2 Samuel]]
-11. [[-- 1 Kings --|1 Kings]]
-12. [[-- 2 Kings --|2 Kings]]
-13. [[-- 1 Chronicles --|1 Chronicles]]
-14. [[-- 2 Chronicles --|2 Chronicles]]
-15. [[-- Ezra --|Ezra]]
-16. [[-- Nehemiah --|Nehemiah]]
-17. [[-- Esther --|Esther]]
-18. [[-- Job --|Job]]
-19. [[-- Psalms --|Psalms]]
-20. [[-- Proverbs --|Proverbs]]
-21. [[-- Ecclesiastes --|Ecclesiastes]]
-22. [[-- Song of Solomon --|Song of Solomon]]
-23. [[-- Isaiah --|Isaiah]]
-24. [[-- Jeremiah --|Jeremiah]]
-25. [[-- Lamentations --|Lamentations]]
-26. [[-- Ezekiel --|Ezekiel]]
-27. [[-- Daniel --|Daniel]]
-28. [[-- Hosea --|Hosea]]
-29. [[-- Joel --|Joel]]
-30. [[-- Amos --|Amos]]
-31. [[-- Obadiah --|Obadiah]]
-32. [[-- Jonah --|Jonah]]
-33. [[-- Micah --|Micah]]
-34. [[-- Nahum --|Nahum]]
-35. [[-- Habakkuk --|Habakkuk]]
-36. [[-- Zephaniah --|Zephaniah]]
-37. [[-- Haggai --|Haggai]]
-38. [[-- Zechariah --|Zechariah]]
-39. [[-- Malachi --|Malachi]]
-### [New Testament](--New%20Testament--.md)
+# [Old Testament](--Old%20Testament--.md)
+### [[-- Genesis --|Genesis]]
+#### 1
+#### 2
+#### 3
+#### 4
+#### 5
+#### 6
+#### 7
+#### 8
+#### 9
+#### 10
+#### 11
+#### 12
+#### 13
+#### 14
+#### 15
+#### 16
+#### 17
+#### 18
+#### 19
+#### 20
+#### 21
+#### 22
+#### 23
+#### 24
+#### 25
+#### 26
+#### 27
+#### 28
+#### 2
+
+### [[-- Exodus --|Exodus]]
+### [[-- Leviticus --|Leviticus]]
+### [[-- Numbers --|Numbers]]
+### [[-- Deuteronomy --|Deuteronomy]]
+### [[-- Joshua --|Joshua]]
+### [[-- Judges --|Judges]]
+### [[-- Ruth --|Ruth]]
+### [[-- 1 Samuel --|1 Samuel]]
+### [[-- 2 Samuel --|2 Samuel]]
+### [[-- 1 Kings --|1 Kings]]
+### [[-- 2 Kings --|2 Kings]]
+### [[-- 1 Chronicles --|1 Chronicles]]
+### [[-- 2 Chronicles --|2 Chronicles]]
+### [[-- Ezra --|Ezra]]
+### [[-- Nehemiah --|Nehemiah]]
+### [[-- Esther --|Esther]]
+### [[-- Job --|Job]]
+### [[-- Psalms --|Psalms]]
+### [[-- Proverbs --|Proverbs]]
+### [[-- Ecclesiastes --|Ecclesiastes]]
+### [[-- Song of Solomon --|Song of Solomon]]
+### [[-- Isaiah --|Isaiah]]
+### [[-- Jeremiah --|Jeremiah]]
+### [[-- Lamentations --|Lamentations]]
+### [[-- Ezekiel --|Ezekiel]]
+### [[-- Daniel --|Daniel]]
+### [[-- Hosea --|Hosea]]
+### [[-- Joel --|Joel]]
+### [[-- Amos --|Amos]]
+### [[-- Obadiah --|Obadiah]]
+### [[-- Jonah --|Jonah]]
+### [[-- Micah --|Micah]]
+### [[-- Nahum --|Nahum]]
+### [[-- Habakkuk --|Habakkuk]]
+### [[-- Zephaniah --|Zephaniah]]
+### [[-- Haggai --|Haggai]]
+### [[-- Zechariah --|Zechariah]]
+### [[-- Malachi --|Malachi]]
+# [New Testament](--New%20Testament--.md)
 40. [[-- Matthew --|Matthew]]
 41. [[-- Mark --|Mark]]
 42. [[-- Luke --|Luke]]
