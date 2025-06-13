@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-- Bible --.md",
+                "file": "01 Old Testament/01 Genesis/-- Genesis --.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-- Bible --"
+              "title": "-- Genesis --"
             }
           }
         ]
@@ -167,10 +167,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "ea8ed1cda191949c",
+  "active": "511a7d3e15fce9dd",
   "lastOpenFiles": [
-    "README.md",
     "-- Bible --.md",
+    "--.md",
+    "01 Old Testament/01 Genesis/-- Genesis --.md",
+    "01 Old Testament/01 Genesis/Genesis 1.md",
+    "README.md",
     "02 New Testament/--New Testament--.md",
     "01 Old Testament/--Old Testament--.md",
     "02 New Testament/66 Revelation/-- Revelation --.md",
@@ -178,7 +181,6 @@
     "01 Old Testament/02 Exodus/Exodus 1.md",
     "01 Old Testament/39 Malachi/Malachi 1.md",
     "01 Old Testament/39 Malachi/-- Malachi --.md",
-    "01 Old Testament/01 Genesis/-- Genesis --.md",
     "02 New Testament",
     "01 Old Testament",
     "01 Old Testament/02 Exodus/-- Exodus --.md",
@@ -195,8 +197,6 @@
     "02 New Testament/54 1 Timothy/1 Timothy 1.md",
     "02 New Testament/53 2 Thessalonians/2 Thessalonians 1.md",
     "02 New Testament/52 1 Thessalonians/1 Thessalonians 1.md",
-    "02 New Testament/51 Colossians/Colossians 1.md",
-    "02 New Testament/50 Philippians/Philippians 1.md",
     "02 New Testament/66 Revelation",
     "02 New Testament/65 Jude",
     "02 New Testament/64 3 John",

@@ -1,4 +1,4 @@
-##### *[[-- Bible --|Books]]*
+##### *[Books](-- Bible --.md)*
 
 ### Chapters
 - [[Genesis 1|1]]
