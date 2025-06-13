@@ -67,7 +67,7 @@
 ###### [3](Ruth%203.md)
 - [1](Ruth%203.md#1), [2](Ruth%203.md#2), [3](Ruth%203.md#3), [4](Ruth%203.md#4), [5](Ruth%203.md#5), [6](Ruth%203.md#6), [7](Ruth%203.md#7), [8](Ruth%203.md#8), [9](Ruth%203.md#9), [10](Ruth%203.md#10), [11](Ruth%203.md#11), [12](Ruth%203.md#12), [13](Ruth%203.md#13), [14](Ruth%203.md#14), [15](Ruth%203.md#15), [16](Ruth%203.md#16), [17](Ruth%203.md#18), [18](Ruth%203.md#18)
 ###### [4](Ruth%204.md)
-- - [1](Ruth%204.md#1), [2](Ruth%204.md#2), [3](Ruth%204.md#3), [4](Ruth%204.md#4), [5](Ruth%204.md#5), [6](Ruth%204.md#6), [7](Ruth%204.md#7), [8](Ruth%204.md#8), [9](Ruth%204.md#9), [10](Ruth%204.md#10), [11](Ruth%204.md#11), [12](Ruth%204.md#12), [13](Ruth%204.md#13), [14](Ruth%204.md#14), [15](Ruth%204.md#15), [16](Ruth%204.md#16), [17](Ruth%204.md#18), [18](Ruth%204.md#18), [19](Ruth%204.md#19), [20](Ruth%204.md#20), [21](Ruth%204.md#21), [22](Ruth%204.md#22)
+- [1](Ruth%204.md#1), [2](Ruth%204.md#2), [3](Ruth%204.md#3), [4](Ruth%204.md#4), [5](Ruth%204.md#5), [6](Ruth%204.md#6), [7](Ruth%204.md#7), [8](Ruth%204.md#8), [9](Ruth%204.md#9), [10](Ruth%204.md#10), [11](Ruth%204.md#11), [12](Ruth%204.md#12), [13](Ruth%204.md#13), [14](Ruth%204.md#14), [15](Ruth%204.md#15), [16](Ruth%204.md#16), [17](Ruth%204.md#18), [18](Ruth%204.md#18), [19](Ruth%204.md#19), [20](Ruth%204.md#20), [21](Ruth%204.md#21), [22](Ruth%204.md#22)
 ##### [[-- 1 Samuel --|1 Samuel]]
 ##### [[-- 2 Samuel --|2 Samuel]]
 ##### [[-- 1 Kings --|1 Kings]]
