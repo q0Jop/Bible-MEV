@@ -66,4 +66,3 @@
 - [[-- 3 John --|3 John]]
 - [[-- Jude --|Jude]]
 - [[-- Revelation --|Revelation]]
-### Apocrypha
