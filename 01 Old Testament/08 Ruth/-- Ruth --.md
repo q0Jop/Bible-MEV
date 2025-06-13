@@ -1,7 +1,7 @@
 ##### *[Books](--%20Bible%20--.md)*
 
 ### Chapters
-- [[Ruth 1|1]]
-- [[Ruth 2|2]]
-- [[Ruth 3|3]]
-- [[Ruth 4|4]]
+- [1](Ruth%201.md)
+- [2](Ruth%202.md)
+- [3](Ruth%203.md)
+- [4](Ruth%204.md)

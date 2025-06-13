@@ -1,5 +1,5 @@
 
-##### **[[Ruth 2|⏪ Ruth 2]] | [[-- Ruth --|Chapters]] | [[Ruth 4|Ruth 4 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**<br><br>
+##### **[⏪ Ruth 2](Ruth%202.md) | [Chapters](--%20Ruth%20--.md) | [Ruth 4 ⏩](Ruth%204.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Ruth’s Redemption One day Naomi her mother-in-law said to her, “My daughter, why should I not find a home that will be good for you?
 ###### 2

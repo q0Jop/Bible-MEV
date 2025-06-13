@@ -1,5 +1,5 @@
 
-##### **[[Ruth 1|⏪ Ruth 1]] | [[-- Ruth --|Chapters]] | [[Ruth 3|Ruth 3 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**<br><br>
+##### **[⏪ Ruth 1](Ruth%201.md) | [Chapters](--%20Ruth%20--.md) | [Ruth 3 ⏩](Ruth%203.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Ruth Meets Boaz Now Naomi had a relative of her husband, a man of prominence and means from the clan of Elimelek. His name was Boaz.
 ###### 2

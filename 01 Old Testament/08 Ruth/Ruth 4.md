@@ -1,5 +1,5 @@
 
-##### **[[Ruth 3|⏪ Ruth 3]] | [[-- Ruth --|Chapters]] | [[1 Samuel 1|1 Samuel 1 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**<br><br>
+##### **[⏪ Ruth 3](Ruth%203.md) | [Chapters](--%20Ruth%20--.md) | [1 Samuel 1 ⏩](1%20Samuel%201.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Boaz Marries Ruth So Boaz went up to the gate and sat down there. And now the redeemer of whom he had spoken passed by, and Boaz said, “Come over, friend, and sit here.” So he went over and sat down.
 ###### 2

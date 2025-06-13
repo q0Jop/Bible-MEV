@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Old Testament/01 Genesis/Genesis 1.md",
+                "file": "01 Old Testament/08 Ruth/-- Ruth --.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 1"
+              "title": "-- Ruth --"
             }
           }
         ]
@@ -169,7 +169,15 @@
   },
   "active": "511a7d3e15fce9dd",
   "lastOpenFiles": [
+    "01 Old Testament/08 Ruth/Ruth 1.md",
+    "01 Old Testament/07 Judges/Judges 21.md",
+    "01 Old Testament/08 Ruth/Ruth 2.md",
+    "01 Old Testament/08 Ruth/Ruth 4.md",
+    "01 Old Testament/09 1 Samuel/1 Samuel 1.md",
+    "01 Old Testament/08 Ruth/Ruth 3.md",
+    "01 Old Testament/08 Ruth/-- Ruth --.md",
     "01 Old Testament/01 Genesis/-- Genesis --.md",
+    "01 Old Testament/01 Genesis/Genesis 1.md",
     "-- Bible --.md",
     "02 New Testament/--New Testament--.md",
     "02 New Testament/66 Revelation/-- Revelation --.md",
@@ -187,14 +195,6 @@
     "02 New Testament/54 1 Timothy/-- 1 Timothy --.md",
     "02 New Testament/53 2 Thessalonians/-- 2 Thessalonians --.md",
     "02 New Testament/52 1 Thessalonians/-- 1 Thessalonians --.md",
-    "02 New Testament/51 Colossians/-- Colossians --.md",
-    "02 New Testament/50 Philippians/-- Philippians --.md",
-    "02 New Testament/49 Ephesians/-- Ephesians --.md",
-    "02 New Testament/48 Galatians/-- Galatians --.md",
-    "02 New Testament/47 2 Corinthians/-- 2 Corinthians --.md",
-    "02 New Testament/46 1 Corinthians/-- 1 Corinthians --.md",
-    "02 New Testament/45 Romans/-- Romans --.md",
-    "02 New Testament/44 Acts/-- Acts --.md",
     "02 New Testament",
     "01 Old Testament",
     "02 New Testament/66 Revelation",

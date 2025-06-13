@@ -1,5 +1,5 @@
 
-##### **[[Judges 21|⏪ Judges 21]] | [[-- Ruth --|Chapters]] | [[Ruth 2|Ruth 2 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**<br><br>
+##### **[⏪ Judges 21](Judges%2021.md) | [Chapters](--%20Ruth%20--.md) | [Ruth 2](Ruth%202.md) ⏩]]**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Naomi Loses In the days when the judges ruled, there was a famine in the land. And a man from Bethlehem in Judah went to live in the land of Moab, he and his wife and his two sons.
 ###### 2
