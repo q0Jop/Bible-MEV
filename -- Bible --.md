@@ -38,7 +38,7 @@
 - [[-- Haggai --|Haggai]]
 - [[-- Zechariah --|Zechariah]]
 - [[-- Malachi --|Malachi]]
-### New Testament
+### [New Testament](--New%20Testament--.md)
 - [[-- Matthew --|Matthew]]
 - [[-- Mark --|Mark]]
 - [[-- Luke --|Luke]]

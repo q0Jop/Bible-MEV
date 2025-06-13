@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-- Bible --.md",
+                "file": "02 New Testament/66 Revelation/-- Revelation --.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-- Bible --"
+              "title": "-- Revelation --"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "511a7d3e15fce9dd",
   "lastOpenFiles": [
-    "01 Old Testament/--Old Testament--.md",
+    "02 New Testament/--New Testament--.md",
     "-- Bible --.md",
+    "01 Old Testament/--Old Testament--.md",
     "01 Old Testament.md",
     "01 Old Testament/02 Exodus/Exodus 1.md",
     "01 Old Testament/39 Malachi/Malachi 1.md",
@@ -196,7 +197,6 @@
     "02 New Testament/52 1 Thessalonians/1 Thessalonians 1.md",
     "02 New Testament/51 Colossians/Colossians 1.md",
     "02 New Testament/50 Philippians/Philippians 1.md",
-    "02 New Testament/49 Ephesians/Ephesians 1.md",
     "02 New Testament/66 Revelation",
     "02 New Testament/65 Jude",
     "02 New Testament/64 3 John",
