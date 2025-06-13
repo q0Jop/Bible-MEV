@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "66 Revelation/-- Revelation --.md",
+                "file": "-- Bible --.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-- Revelation --"
+              "title": "-- Bible --"
             }
           }
         ]
@@ -167,8 +167,9 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "ea8ed1cda191949c",
+  "active": "511a7d3e15fce9dd",
   "lastOpenFiles": [
+    "66 Revelation/-- Revelation --.md",
     "README.md",
     "66 Revelation/Revelation 1.md",
     "65 Jude/Jude 1.md",
@@ -194,7 +195,6 @@
     "43 John/John 1.md",
     "42 Luke/Luke 1.md",
     "41 Mark/Mark 1.md",
-    "40 Matthew/Matthew 1.md",
     "66 Revelation",
     "65 Jude",
     "64 3 John",

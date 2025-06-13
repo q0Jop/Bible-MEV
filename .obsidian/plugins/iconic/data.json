@@ -3987,6 +3987,9 @@
     },
     "66 Revelation/Revelation 9.md": {
       "icon": "📄"
+    },
+    "README.md": {
+      "icon": "lucide-github"
     }
   },
   "bookmarkIcons": {},
