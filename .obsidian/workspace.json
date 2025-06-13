@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-- Bible --.md",
+                "file": "01 Old Testament/01 Genesis/Genesis 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-- Bible --"
+              "title": "Genesis 1"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "511a7d3e15fce9dd",
   "lastOpenFiles": [
+    "01 Old Testament/01 Genesis/-- Genesis --.md",
+    "-- Bible --.md",
     "02 New Testament/--New Testament--.md",
     "02 New Testament/66 Revelation/-- Revelation --.md",
     "02 New Testament/65 Jude/-- Jude --.md",
@@ -193,8 +195,6 @@
     "02 New Testament/46 1 Corinthians/-- 1 Corinthians --.md",
     "02 New Testament/45 Romans/-- Romans --.md",
     "02 New Testament/44 Acts/-- Acts --.md",
-    "02 New Testament/43 John/-- John --.md",
-    "02 New Testament/42 Luke/-- Luke --.md",
     "02 New Testament",
     "01 Old Testament",
     "02 New Testament/66 Revelation",
