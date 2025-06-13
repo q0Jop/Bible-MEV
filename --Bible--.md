@@ -59,7 +59,7 @@
 ##### [[-- Deuteronomy --|Deuteronomy]]
 ##### [[-- Joshua --|Joshua]]
 ##### [[-- Judges --|Judges]]
-##### [Ruth](./--Ruth--.md)
+##### [Ruth](--Ruth--.md)
 ###### [1](Ruth%201.md)
 - [1](Ruth%201.md#1), [2](Ruth%201.md#2), [3](Ruth%201.md#3), [4](Ruth%201.md#4), [5](Ruth%201.md#5), [6](Ruth%201.md#6), [7](Ruth%201.md#7), [8](Ruth%201.md#8), [9](Ruth%201.md#9), [10](Ruth%201.md#10), [11](Ruth%201.md#11), [12](Ruth%201.md#12), [13](Ruth%201.md#13), [14](Ruth%201.md#14), [15](Ruth%201.md#15), [16](Ruth%201.md#16), [17](Ruth%201.md#18), [18](Ruth%201.md#18), [19](Ruth%201.md#19), [20](Ruth%201.md#20), [21](Ruth%201.md#21), [22](Ruth%201.md#22)
 ###### [2](Ruth%202.md)
