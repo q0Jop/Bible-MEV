@@ -1,4 +1,4 @@
-##### *[Books](--%20Bible%20--.md)*
+##### *[Books](--Bible--.md)*
 
 ### Chapters
 - [[Galatians 1|1]]

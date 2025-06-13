@@ -1,5 +1,5 @@
 
-##### **[[Genesis 15|⏪ Genesis 15]] | [[-- Genesis --|Chapters]] | [[Genesis 17|Genesis 17 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 15|⏪ Genesis 15]] | [[--Genesis--|Chapters]] | [[Genesis 17|Genesis 17 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -66,4 +66,4 @@
 1 16:16
 ```
 
-##### **[[Genesis 15|⏪ Genesis 15]] | [[-- Genesis --|Chapters]] | [[Genesis 17|Genesis 17 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 15|⏪ Genesis 15]] | [[--Genesis--|Chapters]] | [[Genesis 17|Genesis 17 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

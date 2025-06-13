@@ -1,4 +1,4 @@
-##### *[Books](--%20Bible%20--.md)*
+##### *[Books](--Bible--.md)*
 
 ### Chapters
 - [[2 Corinthians 1|1]]

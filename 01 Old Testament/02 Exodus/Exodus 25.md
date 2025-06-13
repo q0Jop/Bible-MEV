@@ -1,5 +1,5 @@
 
-##### **[[Exodus 24|⏪ Exodus 24]] | [[-- Exodus --|Chapters]] | [[Exodus 26|Exodus 26 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 24|⏪ Exodus 24]] | [[--Exodus--|Chapters]] | [[Exodus 26|Exodus 26 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -162,4 +162,4 @@
 2 25:40
 ```
 
-##### **[[Exodus 24|⏪ Exodus 24]] | [[-- Exodus --|Chapters]] | [[Exodus 26|Exodus 26 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 24|⏪ Exodus 24]] | [[--Exodus--|Chapters]] | [[Exodus 26|Exodus 26 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

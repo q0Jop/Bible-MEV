@@ -1,5 +1,5 @@
 
-##### **[[Genesis 6|⏪ Genesis 6]] | [[-- Genesis --|Chapters]] | [[Genesis 8|Genesis 8 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 6|⏪ Genesis 6]] | [[--Genesis--|Chapters]] | [[Genesis 8|Genesis 8 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -98,4 +98,4 @@
 1 7:24
 ```
 
-##### **[[Genesis 6|⏪ Genesis 6]] | [[-- Genesis --|Chapters]] | [[Genesis 8|Genesis 8 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 6|⏪ Genesis 6]] | [[--Genesis--|Chapters]] | [[Genesis 8|Genesis 8 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

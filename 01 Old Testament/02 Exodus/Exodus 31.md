@@ -1,5 +1,5 @@
 
-##### **[[Exodus 30|⏪ Exodus 30]] | [[-- Exodus --|Chapters]] | [[Exodus 32|Exodus 32 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 30|⏪ Exodus 30]] | [[--Exodus--|Chapters]] | [[Exodus 32|Exodus 32 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -74,4 +74,4 @@
 2 31:18
 ```
 
-##### **[[Exodus 30|⏪ Exodus 30]] | [[-- Exodus --|Chapters]] | [[Exodus 32|Exodus 32 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 30|⏪ Exodus 30]] | [[--Exodus--|Chapters]] | [[Exodus 32|Exodus 32 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

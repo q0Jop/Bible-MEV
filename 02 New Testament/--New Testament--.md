@@ -1,5 +1,5 @@
 
-##### *[Books](--%20Bible%20--.md)*
+##### *[Books](--Bible--.md)*
 ### [New Testament](--New%20Testament--.md)
 40. [[-- Matthew --|Matthew]]
 41. [[-- Mark --|Mark]]

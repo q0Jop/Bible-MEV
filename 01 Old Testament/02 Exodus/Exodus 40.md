@@ -1,5 +1,5 @@
 
-##### **[[Exodus 39|⏪ Exodus 39]] | [[-- Exodus --|Chapters]] | [[Leviticus 1|Leviticus 1 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 39|⏪ Exodus 39]] | [[--Exodus--|Chapters]] | [[Leviticus 1|Leviticus 1 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -154,4 +154,4 @@
 2 40:38
 ```
 
-##### **[[Exodus 39|⏪ Exodus 39]] | [[-- Exodus --|Chapters]] | [[Leviticus 1|Leviticus 1 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 39|⏪ Exodus 39]] | [[--Exodus--|Chapters]] | [[Leviticus 1|Leviticus 1 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

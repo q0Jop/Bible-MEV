@@ -1,5 +1,5 @@
 
-##### **[[Exodus 8|⏪ Exodus 8]] | [[-- Exodus --|Chapters]] | [[Exodus 10|Exodus 10 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 8|⏪ Exodus 8]] | [[--Exodus--|Chapters]] | [[Exodus 10|Exodus 10 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -142,4 +142,4 @@
 2 9:35
 ```
 
-##### **[[Exodus 8|⏪ Exodus 8]] | [[-- Exodus --|Chapters]] | [[Exodus 10|Exodus 10 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 8|⏪ Exodus 8]] | [[--Exodus--|Chapters]] | [[Exodus 10|Exodus 10 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

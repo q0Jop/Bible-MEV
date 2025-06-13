@@ -1,5 +1,5 @@
 
-##### **[[Genesis 9|⏪ Genesis 9]] | [[-- Genesis --|Chapters]] | [[Genesis 11|Genesis 11 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 9|⏪ Genesis 9]] | [[--Genesis--|Chapters]] | [[Genesis 11|Genesis 11 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -130,4 +130,4 @@
 1 10:32
 ```
 
-##### **[[Genesis 9|⏪ Genesis 9]] | [[-- Genesis --|Chapters]] | [[Genesis 11|Genesis 11 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 9|⏪ Genesis 9]] | [[--Genesis--|Chapters]] | [[Genesis 11|Genesis 11 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

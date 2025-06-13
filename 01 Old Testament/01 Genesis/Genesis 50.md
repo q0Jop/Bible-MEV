@@ -1,5 +1,5 @@
 
-##### **[[Genesis 49|⏪ Genesis 49]] | [[-- Genesis --|Chapters]] | [[Exodus 1|Exodus 1 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 49|⏪ Genesis 49]] | [[--Genesis--|Chapters]] | [[Exodus 1|Exodus 1 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -106,4 +106,4 @@
 1 50:26
 ```
 
-##### **[[Genesis 49|⏪ Genesis 49]] | [[-- Genesis --|Chapters]] | [[Exodus 1|Exodus 1 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 49|⏪ Genesis 49]] | [[--Genesis--|Chapters]] | [[Exodus 1|Exodus 1 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

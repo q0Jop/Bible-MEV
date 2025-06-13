@@ -1,5 +1,5 @@
 
-##### **[[Genesis 30|⏪ Genesis 30]] | [[-- Genesis --|Chapters]] | [[Genesis 32|Genesis 32 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 30|⏪ Genesis 30]] | [[--Genesis--|Chapters]] | [[Genesis 32|Genesis 32 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -222,4 +222,4 @@
 1 31:55
 ```
 
-##### **[[Genesis 30|⏪ Genesis 30]] | [[-- Genesis --|Chapters]] | [[Genesis 32|Genesis 32 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 30|⏪ Genesis 30]] | [[--Genesis--|Chapters]] | [[Genesis 32|Genesis 32 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

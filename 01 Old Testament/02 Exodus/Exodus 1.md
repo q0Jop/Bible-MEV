@@ -1,5 +1,5 @@
 
-##### **[[Genesis 50|⏪ Genesis 50]] | [[-- Exodus --|Chapters]] | [[Exodus 2|Exodus 2 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Genesis 50|⏪ Genesis 50]] | [[--Exodus--|Chapters]] | [[Exodus 2|Exodus 2 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -90,4 +90,4 @@
 2 1:22
 ```
 
-##### **[[Genesis 50|⏪ Genesis 50]] | [[-- Exodus --|Chapters]] | [[Exodus 2|Exodus 2 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Genesis 50|⏪ Genesis 50]] | [[--Exodus--|Chapters]] | [[Exodus 2|Exodus 2 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

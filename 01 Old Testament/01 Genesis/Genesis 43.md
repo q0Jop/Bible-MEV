@@ -1,5 +1,5 @@
 
-##### **[[Genesis 42|⏪ Genesis 42]] | [[-- Genesis --|Chapters]] | [[Genesis 44|Genesis 44 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 42|⏪ Genesis 42]] | [[--Genesis--|Chapters]] | [[Genesis 44|Genesis 44 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -138,4 +138,4 @@
 1 43:34
 ```
 
-##### **[[Genesis 42|⏪ Genesis 42]] | [[-- Genesis --|Chapters]] | [[Genesis 44|Genesis 44 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 42|⏪ Genesis 42]] | [[--Genesis--|Chapters]] | [[Genesis 44|Genesis 44 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

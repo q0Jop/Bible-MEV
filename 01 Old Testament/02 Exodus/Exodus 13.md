@@ -1,5 +1,5 @@
 
-##### **[[Exodus 12|⏪ Exodus 12]] | [[-- Exodus --|Chapters]] | [[Exodus 14|Exodus 14 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 12|⏪ Exodus 12]] | [[--Exodus--|Chapters]] | [[Exodus 14|Exodus 14 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -90,4 +90,4 @@
 2 13:22
 ```
 
-##### **[[Exodus 12|⏪ Exodus 12]] | [[-- Exodus --|Chapters]] | [[Exodus 14|Exodus 14 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 12|⏪ Exodus 12]] | [[--Exodus--|Chapters]] | [[Exodus 14|Exodus 14 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

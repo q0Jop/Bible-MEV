@@ -1,5 +1,5 @@
 
-##### **[[Exodus 5|⏪ Exodus 5]] | [[-- Exodus --|Chapters]] | [[Exodus 7|Exodus 7 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 5|⏪ Exodus 5]] | [[--Exodus--|Chapters]] | [[Exodus 7|Exodus 7 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -122,4 +122,4 @@
 2 6:30
 ```
 
-##### **[[Exodus 5|⏪ Exodus 5]] | [[-- Exodus --|Chapters]] | [[Exodus 7|Exodus 7 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 5|⏪ Exodus 5]] | [[--Exodus--|Chapters]] | [[Exodus 7|Exodus 7 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

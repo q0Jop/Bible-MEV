@@ -1,5 +1,5 @@
 
-##### **[[Exodus 14|⏪ Exodus 14]] | [[-- Exodus --|Chapters]] | [[Exodus 16|Exodus 16 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 14|⏪ Exodus 14]] | [[--Exodus--|Chapters]] | [[Exodus 16|Exodus 16 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -110,4 +110,4 @@
 2 15:27
 ```
 
-##### **[[Exodus 14|⏪ Exodus 14]] | [[-- Exodus --|Chapters]] | [[Exodus 16|Exodus 16 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 14|⏪ Exodus 14]] | [[--Exodus--|Chapters]] | [[Exodus 16|Exodus 16 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

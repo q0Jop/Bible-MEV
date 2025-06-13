@@ -1,14 +1,14 @@
 
-##### *[Books](--%20Bible%20--.md)*
+##### *[Books](--Bible--.md)*
 ### [Old Testament](--Old%20Testament--.md)
-1. [[-- Genesis --|Genesis]]
-2. [[-- Exodus --|Exodus]]
+1. [[--Genesis--|Genesis]]
+2. [[--Exodus--|Exodus]]
 3. [[-- Leviticus --|Leviticus]]
 4. [[-- Numbers --|Numbers]]
 5. [[-- Deuteronomy --|Deuteronomy]]
 6. [[-- Joshua --|Joshua]]
 7. [[-- Judges --|Judges]]
-8. [[-- Ruth --|Ruth]]
+8. [[--Ruth--|Ruth]]
 9. [[-- 1 Samuel --|1 Samuel]]
 10. [[-- 2 Samuel --|2 Samuel]]
 11. [[-- 1 Kings --|1 Kings]]

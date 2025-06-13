@@ -1,5 +1,5 @@
 
-##### **[[Revelation 22|⏪ Revelation 22]] | [[-- Genesis --|Chapters]] | [[Genesis 2|Genesis 2 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Revelation 22|⏪ Revelation 22]] | [[--Genesis--|Chapters]] | [[Genesis 2|Genesis 2 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 ###### 1
 The Creation In the beginning God created the heavens and the earth.
 ###### 2
@@ -63,4 +63,4 @@ To every beast of the earth and to every bird of the air and to everything that 
 ###### 31
 God saw everything that He had made, and indeed it was very good. So the evening and the morning were the sixth day.
 
-##### **[[Revelation 22|⏪ Revelation 22]] | [[-- Genesis --|Chapters]] | [[Genesis 2|Genesis 2 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Revelation 22|⏪ Revelation 22]] | [[--Genesis--|Chapters]] | [[Genesis 2|Genesis 2 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

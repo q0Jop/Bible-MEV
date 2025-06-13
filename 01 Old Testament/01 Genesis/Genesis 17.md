@@ -1,5 +1,5 @@
 
-##### **[[Genesis 16|⏪ Genesis 16]] | [[-- Genesis --|Chapters]] | [[Genesis 18|Genesis 18 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 16|⏪ Genesis 16]] | [[--Genesis--|Chapters]] | [[Genesis 18|Genesis 18 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -110,4 +110,4 @@
 1 17:27
 ```
 
-##### **[[Genesis 16|⏪ Genesis 16]] | [[-- Genesis --|Chapters]] | [[Genesis 18|Genesis 18 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 16|⏪ Genesis 16]] | [[--Genesis--|Chapters]] | [[Genesis 18|Genesis 18 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

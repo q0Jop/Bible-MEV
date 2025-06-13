@@ -1,5 +1,5 @@
 
-##### **[[Exodus 18|⏪ Exodus 18]] | [[-- Exodus --|Chapters]] | [[Exodus 20|Exodus 20 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 18|⏪ Exodus 18]] | [[--Exodus--|Chapters]] | [[Exodus 20|Exodus 20 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -102,4 +102,4 @@
 2 19:25
 ```
 
-##### **[[Exodus 18|⏪ Exodus 18]] | [[-- Exodus --|Chapters]] | [[Exodus 20|Exodus 20 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 18|⏪ Exodus 18]] | [[--Exodus--|Chapters]] | [[Exodus 20|Exodus 20 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

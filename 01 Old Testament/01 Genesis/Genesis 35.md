@@ -1,5 +1,5 @@
 
-##### **[[Genesis 34|⏪ Genesis 34]] | [[-- Genesis --|Chapters]] | [[Genesis 36|Genesis 36 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 34|⏪ Genesis 34]] | [[--Genesis--|Chapters]] | [[Genesis 36|Genesis 36 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -118,4 +118,4 @@
 1 35:29
 ```
 
-##### **[[Genesis 34|⏪ Genesis 34]] | [[-- Genesis --|Chapters]] | [[Genesis 36|Genesis 36 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 34|⏪ Genesis 34]] | [[--Genesis--|Chapters]] | [[Genesis 36|Genesis 36 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

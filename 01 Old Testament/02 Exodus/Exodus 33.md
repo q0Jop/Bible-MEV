@@ -1,5 +1,5 @@
 
-##### **[[Exodus 32|⏪ Exodus 32]] | [[-- Exodus --|Chapters]] | [[Exodus 34|Exodus 34 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 32|⏪ Exodus 32]] | [[--Exodus--|Chapters]] | [[Exodus 34|Exodus 34 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -94,4 +94,4 @@
 2 33:23
 ```
 
-##### **[[Exodus 32|⏪ Exodus 32]] | [[-- Exodus --|Chapters]] | [[Exodus 34|Exodus 34 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 32|⏪ Exodus 32]] | [[--Exodus--|Chapters]] | [[Exodus 34|Exodus 34 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

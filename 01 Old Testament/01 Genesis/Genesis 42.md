@@ -1,5 +1,5 @@
 
-##### **[[Genesis 41|⏪ Genesis 41]] | [[-- Genesis --|Chapters]] | [[Genesis 43|Genesis 43 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 41|⏪ Genesis 41]] | [[--Genesis--|Chapters]] | [[Genesis 43|Genesis 43 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -154,4 +154,4 @@
 1 42:38
 ```
 
-##### **[[Genesis 41|⏪ Genesis 41]] | [[-- Genesis --|Chapters]] | [[Genesis 43|Genesis 43 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 41|⏪ Genesis 41]] | [[--Genesis--|Chapters]] | [[Genesis 43|Genesis 43 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

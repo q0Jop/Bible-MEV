@@ -1,5 +1,5 @@
 
-##### **[⏪ Ruth 1](Ruth%201.md) | [Chapters](--%20Ruth%20--.md) | [Ruth 3 ⏩](Ruth%203.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
+##### **[⏪ Ruth 1](Ruth%201.md) | [Chapters](--Ruth--.md) | [Ruth 3 ⏩](Ruth%203.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Ruth Meets Boaz Now Naomi had a relative of her husband, a man of prominence and means from the clan of Elimelek. His name was Boaz.
 ###### 2
@@ -46,4 +46,4 @@ Then Ruth the Moabitess said, “He even told me, ‘You should stay close to my
 Naomi said to Ruth her daughter-in-law, “It is better, my daughter, that you go with his young women, for in someone else’s field you might be harmed.”
 ###### 23
 So she stayed close to the young women of Boaz to glean until the end of barley harvest and wheat harvest. And she lived with her mother-in-law.
-##### **[[Ruth 1|⏪ Ruth 1]] | [[-- Ruth --|Chapters]] | [[Ruth 3|Ruth 3 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**
+##### **[[Ruth 1|⏪ Ruth 1]] | [[--Ruth--|Chapters]] | [[Ruth 3|Ruth 3 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**

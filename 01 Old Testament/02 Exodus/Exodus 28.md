@@ -1,5 +1,5 @@
 
-##### **[[Exodus 27|⏪ Exodus 27]] | [[-- Exodus --|Chapters]] | [[Exodus 29|Exodus 29 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 27|⏪ Exodus 27]] | [[--Exodus--|Chapters]] | [[Exodus 29|Exodus 29 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -174,4 +174,4 @@
 2 28:43
 ```
 
-##### **[[Exodus 27|⏪ Exodus 27]] | [[-- Exodus --|Chapters]] | [[Exodus 29|Exodus 29 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 27|⏪ Exodus 27]] | [[--Exodus--|Chapters]] | [[Exodus 29|Exodus 29 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

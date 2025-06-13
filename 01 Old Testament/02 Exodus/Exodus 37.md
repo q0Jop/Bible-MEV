@@ -1,5 +1,5 @@
 
-##### **[[Exodus 36|⏪ Exodus 36]] | [[-- Exodus --|Chapters]] | [[Exodus 38|Exodus 38 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
+##### **[[Exodus 36|⏪ Exodus 36]] | [[--Exodus--|Chapters]] | [[Exodus 38|Exodus 38 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -118,4 +118,4 @@
 2 37:29
 ```
 
-##### **[[Exodus 36|⏪ Exodus 36]] | [[-- Exodus --|Chapters]] | [[Exodus 38|Exodus 38 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**
+##### **[[Exodus 36|⏪ Exodus 36]] | [[--Exodus--|Chapters]] | [[Exodus 38|Exodus 38 ⏩]]**<br>**[[Exodus 1|First (1)]] | [[Exodus 40|Last (40)]]**

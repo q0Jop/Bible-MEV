@@ -1,5 +1,5 @@
 
-##### **[[Genesis 25|⏪ Genesis 25]] | [[-- Genesis --|Chapters]] | [[Genesis 27|Genesis 27 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 25|⏪ Genesis 25]] | [[--Genesis--|Chapters]] | [[Genesis 27|Genesis 27 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -142,4 +142,4 @@
 1 26:35
 ```
 
-##### **[[Genesis 25|⏪ Genesis 25]] | [[-- Genesis --|Chapters]] | [[Genesis 27|Genesis 27 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 25|⏪ Genesis 25]] | [[--Genesis--|Chapters]] | [[Genesis 27|Genesis 27 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

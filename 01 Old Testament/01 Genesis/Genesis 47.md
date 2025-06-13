@@ -1,5 +1,5 @@
 
-##### **[[Genesis 46|⏪ Genesis 46]] | [[-- Genesis --|Chapters]] | [[Genesis 48|Genesis 48 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 46|⏪ Genesis 46]] | [[--Genesis--|Chapters]] | [[Genesis 48|Genesis 48 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -126,4 +126,4 @@
 1 47:31
 ```
 
-##### **[[Genesis 46|⏪ Genesis 46]] | [[-- Genesis --|Chapters]] | [[Genesis 48|Genesis 48 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 46|⏪ Genesis 46]] | [[--Genesis--|Chapters]] | [[Genesis 48|Genesis 48 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

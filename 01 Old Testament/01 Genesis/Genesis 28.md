@@ -1,5 +1,5 @@
 
-##### **[[Genesis 27|⏪ Genesis 27]] | [[-- Genesis --|Chapters]] | [[Genesis 29|Genesis 29 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 27|⏪ Genesis 27]] | [[--Genesis--|Chapters]] | [[Genesis 29|Genesis 29 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -90,4 +90,4 @@
 1 28:22
 ```
 
-##### **[[Genesis 27|⏪ Genesis 27]] | [[-- Genesis --|Chapters]] | [[Genesis 29|Genesis 29 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 27|⏪ Genesis 27]] | [[--Genesis--|Chapters]] | [[Genesis 29|Genesis 29 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

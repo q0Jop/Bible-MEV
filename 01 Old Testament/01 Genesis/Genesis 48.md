@@ -1,5 +1,5 @@
 
-##### **[[Genesis 47|⏪ Genesis 47]] | [[-- Genesis --|Chapters]] | [[Genesis 49|Genesis 49 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 47|⏪ Genesis 47]] | [[--Genesis--|Chapters]] | [[Genesis 49|Genesis 49 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -90,4 +90,4 @@
 1 48:22
 ```
 
-##### **[[Genesis 47|⏪ Genesis 47]] | [[-- Genesis --|Chapters]] | [[Genesis 49|Genesis 49 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 47|⏪ Genesis 47]] | [[--Genesis--|Chapters]] | [[Genesis 49|Genesis 49 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

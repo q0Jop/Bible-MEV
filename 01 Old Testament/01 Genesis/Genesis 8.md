@@ -1,5 +1,5 @@
 
-##### **[[Genesis 7|⏪ Genesis 7]] | [[-- Genesis --|Chapters]] | [[Genesis 9|Genesis 9 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 7|⏪ Genesis 7]] | [[--Genesis--|Chapters]] | [[Genesis 9|Genesis 9 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -90,4 +90,4 @@
 1 8:22
 ```
 
-##### **[[Genesis 7|⏪ Genesis 7]] | [[-- Genesis --|Chapters]] | [[Genesis 9|Genesis 9 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 7|⏪ Genesis 7]] | [[--Genesis--|Chapters]] | [[Genesis 9|Genesis 9 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

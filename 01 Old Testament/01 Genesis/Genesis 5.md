@@ -1,5 +1,5 @@
 
-##### **[[Genesis 4|⏪ Genesis 4]] | [[-- Genesis --|Chapters]] | [[Genesis 6|Genesis 6 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 4|⏪ Genesis 4]] | [[--Genesis--|Chapters]] | [[Genesis 6|Genesis 6 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -130,4 +130,4 @@
 1 5:32
 ```
 
-##### **[[Genesis 4|⏪ Genesis 4]] | [[-- Genesis --|Chapters]] | [[Genesis 6|Genesis 6 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 4|⏪ Genesis 4]] | [[--Genesis--|Chapters]] | [[Genesis 6|Genesis 6 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

@@ -1,5 +1,5 @@
 
-##### **[[Genesis 33|⏪ Genesis 33]] | [[-- Genesis --|Chapters]] | [[Genesis 35|Genesis 35 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 33|⏪ Genesis 33]] | [[--Genesis--|Chapters]] | [[Genesis 35|Genesis 35 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -126,4 +126,4 @@
 1 34:31
 ```
 
-##### **[[Genesis 33|⏪ Genesis 33]] | [[-- Genesis --|Chapters]] | [[Genesis 35|Genesis 35 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 33|⏪ Genesis 33]] | [[--Genesis--|Chapters]] | [[Genesis 35|Genesis 35 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

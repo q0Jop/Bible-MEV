@@ -1,5 +1,5 @@
 
-##### **[[Genesis 39|⏪ Genesis 39]] | [[-- Genesis --|Chapters]] | [[Genesis 41|Genesis 41 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 39|⏪ Genesis 39]] | [[--Genesis--|Chapters]] | [[Genesis 41|Genesis 41 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -94,4 +94,4 @@
 1 40:23
 ```
 
-##### **[[Genesis 39|⏪ Genesis 39]] | [[-- Genesis --|Chapters]] | [[Genesis 41|Genesis 41 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 39|⏪ Genesis 39]] | [[--Genesis--|Chapters]] | [[Genesis 41|Genesis 41 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

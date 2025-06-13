@@ -1,5 +1,5 @@
 
-##### **[⏪ Judges 21](Judges%2021.md) | [Chapters](--%20Ruth%20--.md) | [Ruth 2](Ruth%202.md) ⏩]]**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
+##### **[⏪ Judges 21](Judges%2021.md) | [Chapters](--Ruth--.md) | [Ruth 2](Ruth%202.md) ⏩]]**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Naomi Loses In the days when the judges ruled, there was a famine in the land. And a man from Bethlehem in Judah went to live in the land of Moab, he and his wife and his two sons.
 ###### 2
@@ -44,4 +44,4 @@ But she said to them, “Do not call me Naomi. Call me Mara, because the Almight
 I was full when I left, but the Lord has caused me to return empty. Why should you call me Naomi when the Lord has opposed me? The Almighty has brought misfortune upon me!”
 ###### 22
 So Naomi returned from the land of Moab with Ruth the Moabite, her daughter-in-law. They came to Bethlehem at the start of the spring barley harvest.
-##### **[[Judges 21|⏪ Judges 21]] | [[-- Ruth --|Chapters]] | [[Ruth 2|Ruth 2 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**
+##### **[[Judges 21|⏪ Judges 21]] | [[--Ruth--|Chapters]] | [[Ruth 2|Ruth 2 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**

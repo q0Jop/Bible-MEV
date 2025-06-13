@@ -1,5 +1,5 @@
 
-##### **[[Genesis 14|⏪ Genesis 14]] | [[-- Genesis --|Chapters]] | [[Genesis 16|Genesis 16 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 14|⏪ Genesis 14]] | [[--Genesis--|Chapters]] | [[Genesis 16|Genesis 16 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -86,4 +86,4 @@
 1 15:21
 ```
 
-##### **[[Genesis 14|⏪ Genesis 14]] | [[-- Genesis --|Chapters]] | [[Genesis 16|Genesis 16 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 14|⏪ Genesis 14]] | [[--Genesis--|Chapters]] | [[Genesis 16|Genesis 16 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

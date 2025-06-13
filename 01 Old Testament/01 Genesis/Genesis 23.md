@@ -1,5 +1,5 @@
 
-##### **[[Genesis 22|⏪ Genesis 22]] | [[-- Genesis --|Chapters]] | [[Genesis 24|Genesis 24 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
+##### **[[Genesis 22|⏪ Genesis 22]] | [[--Genesis--|Chapters]] | [[Genesis 24|Genesis 24 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**<br><br>
 
 ###### 1
 ``` verse
@@ -82,4 +82,4 @@
 1 23:20
 ```
 
-##### **[[Genesis 22|⏪ Genesis 22]] | [[-- Genesis --|Chapters]] | [[Genesis 24|Genesis 24 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**
+##### **[[Genesis 22|⏪ Genesis 22]] | [[--Genesis--|Chapters]] | [[Genesis 24|Genesis 24 ⏩]]**<br>**[[Genesis 1|First (1)]] | [[Genesis 50|Last (50)]]**

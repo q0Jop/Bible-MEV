@@ -1,5 +1,5 @@
 
-##### **[⏪ Ruth 2](Ruth%202.md) | [Chapters](--%20Ruth%20--.md) | [Ruth 4 ⏩](Ruth%204.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
+##### **[⏪ Ruth 2](Ruth%202.md) | [Chapters](--Ruth--.md) | [Ruth 4 ⏩](Ruth%204.md)**<br>**[First (1)](Ruth%201.md) | [Last (4)](Ruth%204.md)**<br><br>
 ###### 1
 Ruth’s Redemption One day Naomi her mother-in-law said to her, “My daughter, why should I not find a home that will be good for you?
 ###### 2
@@ -36,4 +36,4 @@ When Ruth came to her mother-in-law, Naomi said, “How did it go, my daughter?�
 She said, “He gave me these six ephahs of barley, for he said to me, ‘Do not return to your mother-in-law empty-handed.’ ”
 ###### 18
 Then Naomi said, “Wait here, my daughter, until you learn what happens. For the man will not rest until the matter is settled today.”
-##### **[[Ruth 2|⏪ Ruth 2]] | [[-- Ruth --|Chapters]] | [[Ruth 4|Ruth 4 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**
+##### **[[Ruth 2|⏪ Ruth 2]] | [[--Ruth--|Chapters]] | [[Ruth 4|Ruth 4 ⏩]]**<br>**[[Ruth 1|First (1)]] | [[Ruth 4|Last (4)]]**
