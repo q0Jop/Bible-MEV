@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📜",
       "📖"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +30,7 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "New Testament": "📜",
+  "Old Testament": "📜"
 }
