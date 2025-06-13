@@ -30,7 +30,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "New Testament": "📜",
-  "Old Testament": "📜"
+  }
 }

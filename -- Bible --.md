@@ -1,4 +1,4 @@
-### Old testament
+### Old Testament
 - [[-- Genesis --|Genesis]]
 - [[-- Exodus --|Exodus]]
 - [[-- Leviticus --|Leviticus]]
@@ -38,7 +38,7 @@
 - [[-- Haggai --|Haggai]]
 - [[-- Zechariah --|Zechariah]]
 - [[-- Malachi --|Malachi]]
-### New testament
+### New Testament
 - [[-- Matthew --|Matthew]]
 - [[-- Mark --|Mark]]
 - [[-- Luke --|Luke]]
